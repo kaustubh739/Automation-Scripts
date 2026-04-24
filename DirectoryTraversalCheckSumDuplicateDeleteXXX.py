@@ -58,7 +58,7 @@ def DirectoryWatcher(DirectoryName = "Marvellous"):
     Border = "-"*54
     
     fobj.write(Border+"\n")
-    fobj.write("This is a log file of Marvellous Automation Script\n")
+    fobj.write("This is a log file of Kaustubh's Automation Script\n")
     fobj.write("This is a Driectory Cleaner Script\n")
 
     fobj.write(Border+"\n")
